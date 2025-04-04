@@ -1,6 +1,6 @@
 
 # About Me:
-Third-year Computer Science Honours - Applied Computing<br> I'm currently learning TypeScript and website security<br> 
+Fourth-year Computer Science Honours - Applied Computing<br> I'm currently learning TypeScript and website security<br> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-finerty-822066248/)
 
