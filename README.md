@@ -1,6 +1,6 @@
 
 # About Me:
-Computer Science Honours - Applied Computing <br>Currently working with Jenkins, Docker and Ansible in order to build CI/CD pipelines.<br> 
+Computer Science Honours - Applied Computing <br>Currently working to become a DevOps Engineer specializing in AWS Cloud and CI/CD Automation.<br> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-finerty-822066248/)
 
