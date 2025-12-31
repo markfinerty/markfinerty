@@ -6,7 +6,7 @@ Currently working to become a DevOps Engineer specializing in AWS Cloud and CI/C
 
 # Tech Stack:
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-%20DeveloperAssociate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-%20Developer%20Associate-FF9901?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
